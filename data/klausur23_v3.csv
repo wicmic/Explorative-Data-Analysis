@@ -1,0 +1,401 @@
+,Datum,Pizza,Kunden-ID,Region,Bote,Sonderwunsch
+1, 2022-11-29, Indiana, LZ, Uni-Viertel, Luigi, doppelt Käse
+2, 2022-11-04, Currywurst, YV, Bergdorf, Pizzabote1, 
+3, 2022-11-20, Florida, NQ, Neustadt, Pizzabote1, 
+4, 2022-10-10, Kentucky, RM, Uni-Viertel, Luigi, scharf
+5, 2022-11-19, Mozzarella, LP, Uni-Viertel, Pizzabote1, 
+6, 2022-12-01, FruttiDiMare, YX, Wiesendorf, Pizzabote1, 
+7, 2022-10-16, Currywurst, PN, Univiertel, Luigi, scharf
+8, 2022-10-28, NewYork, GO, Flussviertel, Pizzabote1, doppelt Käse
+9, 2022-11-10, NewYork, RG, Taldorf, Pizzabote1, vegan
+10, 2022-10-13, NewYork, LZ, Neustadt, Pizzabote2, doppelt Käse
+11, 2022-11-08, Bombay, KR, Uni-Viertel, Pizzabote1, scharf
+12, 2022-10-13, Funghi, KH, Uni-Viertel, Pizzabote2, 
+13, 2022-11-06, Funghi, VJ, Innenstadt, Pizzabote2, 
+14, 2022-10-20, Tonno, XY, Unterstadt, Pizzabote2, ohne Käse
+15, 2022-11-07, FruttiDiMare, HK, Uni-Viertel, Pizzabote2, doppelt Käse
+16, 2022-11-24, Chicago, JG, Unterstadt, Luigi, scharf
+17, 2022-10-12, Prosciutto, CF, Neustadt, Pizzabote1, doppelt Käse
+18, 2022-10-31, NewYork, HL, Univiertel, Pizzabote1, doppelt Käse
+19, 2022-11-14, FruttiDiMare, YJ, Taldorf, Pizzabote1, ohne Käse
+20, 2022-10-13, NewYork, FE, Neustadt, Pizzabote1, doppelt Käse
+21, 2022-10-15, Hawaii, PN, Uni-Viertel, Pizzabote2, 
+22, 2022-10-18, HotDog, YX, Bahnhofsviertel, Pizzabote1, scharf
+23, 2022-11-15, Bombay, VW, Altstadt, Pizzabote1, 
+24, 2022-11-05, Tonno, TZ, Uni-Viertel, Pizzabote2, doppelt Käse
+25, 2022-11-02, Tonno, YJ, Uni-Viertel, Pizzabote1, 
+26, 2022-10-03, Florida, YV, Taldorf, Luigi, 
+27, 2022-11-28, Spargel, XY, Neustadt, Pizzabote1, scharf
+28, 2022-11-01, FruttiDiMare, NY, Bergdorf, Pizzabote1, 
+29, 2022-10-31, Bombay, FO, Flussviertel, Luigi, vegan
+30, 2022-10-22, Indiana, IT, Uni-Viertel, Pizzabote1, 
+31, 2022-10-16, HotDog, TH, Taldorf, Pizzabote2, 
+32, 2022-11-15, FruttiDiMare, IT, Uni-Viertel, Pizzabote1, 
+33, 2022-10-25, Currywurst, CF, Neustadt, Pizzabote1, 
+34, 2022-11-27, Bombay, JP, Uni-Viertel, Pizzabote1, doppelt Käse
+35, 2022-11-21, Gyros, JQ, Univiertel, Pizzabote2, scharf
+36, 2022-11-02, HotDog, JB, Bergdorf, Luigi, doppelt Käse
+37, 2022-10-01, Gyros, GO, Innenstadt, Pizzabote1, 
+38, 2022-11-10, Cheese, LP, Flussviertel, Pizzabote1, 
+39, 2022-10-30, Cheese, SC, Uni-Viertel, Pizzabote1, 
+40, 2022-11-03, Nevada, TH, Neustadt, Luigi, doppelt Käse
+41, 2022-10-17, Bombay, HL, Univiertel, Pizzabote1, 
+42, 2022-11-05, Indiana, YQ, Wiesendorf, Pizzabote2, 
+43, 2022-10-15, Gyros, OS, Wiesendorf, Pizzabote1, doppelt Käse
+44, 2022-11-10, Nevada, QJ, Neustadt, Luigi, 
+45, 2022-10-20, Nevada, KR, Uni-Viertel, Pizzabote1, scharf
+46, 2022-10-25, Nevada, CF, Altstadt, Pizzabote2, doppelt Käse
+47, 2022-11-21, Mista, XY, Altstadt, Pizzabote1, 
+48, 2022-10-07, Indiana, GO, Innenstadt, Pizzabote1, vegan
+49, 2022-11-01, Spargel, NQ, Unterstadt, Pizzabote1, vegan
+50, 2022-11-09, Currywurst, IP, Altstadt, Pizzabote1, ohne Käse
+51, 2022-10-14, Hawaii, YJ, Uni-Viertel, Pizzabote1, 
+52, 2022-10-04, Tonno, GO, Wiesendorf, Luigi, 
+53, 2022-10-15, Spargel, SC, Innenstadt, Pizzabote1, 
+54, 2022-12-01, Mozzarella, LP, Wiesendorf, Pizzabote1, 
+55, 2022-11-18, Florida, EW, Altstadt, Pizzabote2, 
+56, 2022-11-30, Bombay, FO, Innenstadt, Pizzabote1, doppelt Käse
+57, 2022-11-17, Cheese, HL, Taldorf, Pizzabote1, 
+58, 2022-10-11, Kentucky, JB, Neustadt, Pizzabote1, 
+59, 2022-11-27, HotDog, LZ, Neustadt, Pizzabote1, doppelt Käse
+60, 2022-11-10, Margherita, RM, Altstadt, Pizzabote1, 
+61, 2022-12-01, Margherita, CS, Altstadt, Pizzabote2, doppelt Käse
+62, 2022-11-25, Indiana, AI, Uni-Viertel, Pizzabote1, doppelt Käse
+63, 2022-10-06, Tonno, TZ, Uni-Viertel, Pizzabote1, 
+64, 2022-11-06, Hawaii, YV, Bahnhofsviertel, Pizzabote1, doppelt Käse
+65, 2022-10-10, Florida, KR, Uni-Viertel, Pizzabote1, 
+66, 2022-11-22, Funghi, JP, Bergdorf, Pizzabote1, 
+67, 2022-10-25, Indiana, RG, Taldorf, Pizzabote1, 
+68, 2022-11-14, Chicago, SC, Neustadt, Pizzabote2, scharf
+69, 2022-11-11, Prosciutto, YX, Uni-Viertel, Pizzabote1, 
+70, 2022-10-22, Spargel, TZ, Uni-Viertel, Pizzabote1, doppelt Käse
+71, 2022-11-11, Florida, UB, Wiesedorf, Pizzabote2, 
+72, 2022-11-11, Tonno, GO, Unterstadt, Pizzabote1, vegan
+73, 2022-10-25, Chicago, LP, Innenstadt, Pizzabote1, ohne Käse
+74, 2022-11-29, Mista, CF, Uni-Viertel, Pizzabote2, 
+75, 2022-10-21, Kentucky, IP, Innenstadt, Pizzabote1, doppelt Käse
+76, 2022-10-15, Funghi, FE, Uni-Viertel, Pizzabote2, 
+77, 2022-11-13, Nevada, EM, Wiesendorf, Pizzabote2, 
+78, 2022-11-27, Bombay, LP, Uni-Viertel, Pizzabote1, doppelt Käse
+79, 2022-11-01, Hawaii, KR, Altstadt, Pizzabote1, 
+80, 2022-10-17, Cheese, LH, Wiesendorf, Pizzabote2, 
+81, 2022-10-04, Chicago, DS, Neustadt, Pizzabote1, ohne Käse
+82, 2022-11-26, Mista, XD, Neustadt, Pizzabote2, 
+83, 2022-11-02, Spargel, NY, Neustadt, Pizzabote1, 
+84, 2022-10-08, Florida, GO, Univiertel, Pizzabote1, doppelt Käse
+85, 2022-11-11, Indiana, RM, Neustadt, Pizzabote1, 
+86, 2022-11-20, Funghi, UR, Uni-Viertel, Pizzabote2, 
+87, 2022-11-11, Bombay, WV, Innenstadt, Pizzabote1, 
+88, 2022-10-06, Tonno, SC, Taldorf, Pizzabote2, 
+89, 2022-10-27, HotDog, XW, Innenstadt, Pizzabote1, scharf
+90, 2022-11-14, Mozzarella, KH, Wiesedorf, Pizzabote1, doppelt Käse
+91, 2022-10-18, Spargel, VW, Uni-Viertel, Pizzabote1, 
+92, 2022-10-25, Nevada, YQ, Wiesendorf, Pizzabote1, doppelt Käse
+93, 2022-10-27, Funghi, VJ, Bergdorf, Pizzabote1, 
+94, 2022-11-01, NewYork, XD, Neustadt, Pizzabote2, 
+95, 2022-11-05, Gyros, OS, Taldorf, Pizzabote1, ohne Käse
+96, 2022-11-17, Mozzarella, IT, Innenstadt, Pizzabote2, vegan
+97, 2022-10-03, Cheese, CS, Innenstadt, Pizzabote2, 
+98, 2022-10-19, Chicago, UB, Neustadt, Pizzabote2, 
+99, 2022-10-11, Indiana, LZ, Unterstadt, Pizzabote1, doppelt Käse
+100, 2022-11-05, Funghi, JB, Univiertel, Pizzabote1, doppelt Käse
+101, 2022-11-26, Spargel, RG, Univiertel, Pizzabote2, doppelt Käse
+102, 2022-11-08, Mozzarella, EW, Uni-Viertel, Pizzabote1, 
+103, 2022-12-01, Nevada, JP, Bahnhofsviertel, Pizzabote2, doppelt Käse
+104, 2022-10-21, Mista, TH, Flussviertel, Pizzabote1, 
+105, 2022-10-20, Mista, LP, Innenstadt, Pizzabote2, doppelt Käse
+106, 2022-10-01, Kentucky, DA, Uni-Viertel, Pizzabote2, 
+107, 2022-10-24, Funghi, HL, Wiesendorf, Luigi, ohne Käse
+108, 2022-10-08, HotDog, DA, Innenstadt, Pizzabote2, doppelt Käse
+109, 2022-10-19, Prosciutto, WV, Uni-Viertel, Pizzabote1, doppelt Käse
+110, 2022-11-23, Nevada, YX, Bahnhofsviertel, Pizzabote1, doppelt Käse
+111, 2022-10-23, HotDog, PN, Wiesendorf, Pizzabote2, doppelt Käse
+112, 2022-11-22, Hawaii, PN, Wiesendorf, Pizzabote2, 
+113, 2022-11-12, NewYork, CF, Altstadt, Pizzabote2, 
+114, 2022-11-05, Indiana, HK, Altstadt, Luigi, 
+115, 2022-11-19, Currywurst, DA, Taldorf, Pizzabote1, 
+116, 2022-11-30, FruttiDiMare, FE, Bahnhofsviertel, Pizzabote1, ohne Käse
+117, 2022-11-03, HotDog, HL, Neustadt, Pizzabote2, 
+118, 2022-10-15, Chicago, EM, Flussviertel, Pizzabote1, 
+119, 2022-10-14, Hawaii, UR, Unterstadt, Pizzabote2, 
+120, 2022-10-13, Funghi, PN, Neustadt, Pizzabote2, 
+121, 2022-10-02, Kentucky, JG, Univiertel, Pizzabote1, 
+122, 2022-10-10, NewYork, CS, Neustadt, Pizzabote1, 
+123, 2022-11-15, NewYork, VL, Altstadt, Pizzabote2, 
+124, 2022-11-05, Spargel, FO, Uni-Viertel, Pizzabote1, 
+125, 2022-10-09, Mozzarella, VW, Flussviertel, Pizzabote2, 
+126, 2022-10-22, Currywurst, KH, Altstadt, Pizzabote1, 
+127, 2022-10-30, Hawaii, HL, Wiesendorf, Pizzabote1, 
+128, 2022-10-25, Margherita, YX, Wiesendorf, Pizzabote1, 
+129, 2022-11-24, Margherita, XY, Altstadt, Pizzabote1, 
+130, 2022-11-07, Nevada, LP, Uni-Viertel, Pizzabote1, 
+131, 2022-11-21, Hawaii, JB, Wiesedorf, Pizzabote1, scharf
+132, 2022-10-09, FruttiDiMare, WV, Bergdorf, Pizzabote1, 
+133, 2022-11-01, HotDog, JG, Uni-Viertel, Pizzabote2, scharf
+134, 2022-10-14, Currywurst, CF, Unterstadt, Pizzabote1, 
+135, 2022-10-17, Margherita, KH, Innenstadt, Pizzabote2, 
+136, 2022-11-19, Gyros, RG, Innenstadt, Pizzabote1, 
+137, 2022-10-17, Prosciutto, KR, Innenstadt, Pizzabote1, doppelt Käse
+138, 2022-10-06, Indiana, IH, Neustadt, Luigi, ohne Käse
+139, 2022-10-31, Indiana, HA, Innenstadt, Pizzabote1, 
+140, 2022-10-01, Gyros, JB, Uni-Viertel, Pizzabote1, doppelt Käse
+141, 2022-11-27, Mista, UB, Altstadt, Pizzabote1, ohne Käse
+142, 2022-10-01, Spargel, PN, Wiesendorf, Pizzabote1, ohne Käse
+143, 2022-10-25, Tonno, WV, Wiesendorf, Pizzabote2, 
+144, 2022-11-23, Hawaii, JQ, Innenstadt, Pizzabote1, vegan
+145, 2022-10-05, NewYork, KR, Univiertel, Luigi, 
+146, 2022-11-11, Spargel, BR, Univiertel, Pizzabote1, 
+147, 2022-10-05, Florida, PO, Altstadt, Pizzabote2, ohne Käse
+148, 2022-11-29, NewYork, JQ, Wiesendorf, Pizzabote2, ohne Käse
+149, 2022-10-17, Nevada, KH, Wiesendorf, Pizzabote1, 
+150, 2022-11-29, Chicago, FE, Altstadt, Pizzabote1, 
+151, 2022-10-18, Chicago, JP, Uni-Viertel, Pizzabote1, 
+152, 2022-11-09, Bombay, EW, Neustadt, Pizzabote1, 
+153, 2022-11-17, Nevada, FE, Univiertel, Pizzabote2, 
+154, 2022-12-01, Bombay, CF, Altstadt, Luigi, 
+155, 2022-11-02, NewYork, PN, Flussviertel, Pizzabote1, doppelt Käse
+156, 2022-10-28, Tonno, CF, Flussviertel, Pizzabote1, 
+157, 2022-11-08, Prosciutto, UR, Uni-Viertel, Pizzabote1, 
+158, 2022-11-22, Funghi, FE, Uni-Viertel, Pizzabote1, scharf
+159, 2022-11-30, Chicago, XD, Uni-Viertel, Pizzabote1, vegan
+160, 2022-11-26, HotDog, DA, Neustadt, Pizzabote1, 
+161, 2022-11-10, Tonno, UR, Flussviertel, Pizzabote1, doppelt Käse
+162, 2022-10-19, Bombay, TH, Bergdorf, Pizzabote1, vegan
+163, 2022-11-05, Mozzarella, TZ, Wiesendorf, Luigi, doppelt Käse
+164, 2022-11-03, NewYork, CS, Wiesendorf, Pizzabote1, vegan
+165, 2022-11-15, Bombay, CF, Neustadt, Pizzabote1, 
+166, 2022-12-01, FruttiDiMare, RM, Bahnhofsviertel, Luigi, 
+167, 2022-10-19, HotDog, HK, Bergdorf, Pizzabote2, ohne Käse
+168, 2022-11-29, Chicago, YJ, Wiesendorf, Pizzabote1, 
+169, 2022-10-04, Currywurst, SC, Bahnhofsviertel, Pizzabote2, 
+170, 2022-10-30, Bombay, LZ, Uni-Viertel, Pizzabote2, scharf
+171, 2022-11-03, Tonno, CF, Taldorf, Pizzabote1, 
+172, 2022-10-28, Gyros, EW, Neustadt, Luigi, 
+173, 2022-12-01, Cheese, XD, Uni-Viertel, Pizzabote2, 
+174, 2022-10-24, Nevada, YQ, Altstadt, Pizzabote1, 
+175, 2022-11-30, Hawaii, IT, Wiesendorf, Pizzabote2, ohne Käse
+176, 2022-11-17, Currywurst, JP, Unterstadt, Pizzabote1, 
+177, 2022-10-31, Spargel, WV, Innenstadt, Pizzabote1, 
+178, 2022-10-17, Indiana, JG, Bahnhofsviertel, Pizzabote2, doppelt Käse
+179, 2022-11-20, Cheese, IT, Wiesendorf, Pizzabote2, doppelt Käse
+180, 2022-10-02, HotDog, DS, Univiertel, Pizzabote1, 
+181, 2022-10-11, FruttiDiMare, DS, Neustadt, Pizzabote1, scharf
+182, 2022-10-08, Florida, YQ, Altstadt, Pizzabote2, 
+183, 2022-10-31, NewYork, YV, Innenstadt, Luigi, doppelt Käse
+184, 2022-10-25, Bombay, GO, Uni-Viertel, Pizzabote2, 
+185, 2022-10-14, Tonno, YJ, Uni-Viertel, Pizzabote2, 
+186, 2022-11-12, Indiana, IH, Wiesedorf, Luigi, 
+187, 2022-11-20, Tonno, NY, Taldorf, Pizzabote2, 
+188, 2022-10-21, Indiana, DS, Uni-Viertel, Pizzabote1, doppelt Käse
+189, 2022-11-12, Gyros, PO, Uni-Viertel, Pizzabote1, scharf
+190, 2022-10-22, Gyros, XD, Uni-Viertel, Pizzabote2, doppelt Käse
+191, 2022-11-25, Florida, IT, Neustadt, Pizzabote1, 
+192, 2022-11-29, Funghi, EW, Wiesendorf, Pizzabote2, 
+193, 2022-11-01, Florida, NQ, Altstadt, Luigi, 
+194, 2022-11-03, HotDog, UB, Uni-Viertel, Pizzabote1, 
+195, 2022-11-20, Hawaii, NY, Uni-Viertel, Luigi, ohne Käse
+196, 2022-11-20, NewYork, IH, Wiesedorf, Pizzabote1, 
+197, 2022-10-06, Nevada, DS, Uni-Viertel, Luigi, 
+198, 2022-10-18, HotDog, JQ, Innenstadt, Luigi, 
+199, 2022-10-06, FruttiDiMare, HL, Altstadt, Pizzabote1, 
+200, 2022-10-09, Mista, FO, Uni-Viertel, Pizzabote1, 
+201, 2022-10-21, Nevada, UR, Altstadt, Pizzabote2, doppelt Käse
+202, 2022-10-08, Prosciutto, VJ, Uni-Viertel, Pizzabote1, 
+203, 2022-11-19, HotDog, OS, Wiesendorf, Luigi, doppelt Käse
+204, 2022-11-26, FruttiDiMare, KH, Neustadt, Pizzabote2, 
+205, 2022-12-01, NewYork, OS, Uni-Viertel, Pizzabote1, doppelt Käse
+206, 2022-11-16, Kentucky, HL, Taldorf, Pizzabote1, 
+207, 2022-10-13, Margherita, XD, Taldorf, Pizzabote1, 
+208, 2022-11-11, Kentucky, YV, Uni-Viertel, Pizzabote2, vegan
+209, 2022-10-25, Gyros, JQ, Bergdorf, Pizzabote1, 
+210, 2022-10-29, Bombay, KR, Wiesedorf, Pizzabote1, 
+211, 2022-10-26, Spargel, OS, Uni-Viertel, Luigi, ohne Käse
+212, 2022-10-15, Prosciutto, TH, Uni-Viertel, Pizzabote1, 
+213, 2022-11-28, HotDog, PN, Neustadt, Pizzabote1, 
+214, 2022-11-02, HotDog, OS, Uni-Viertel, Pizzabote1, 
+215, 2022-11-30, NewYork, LP, Uni-Viertel, Pizzabote2, 
+216, 2022-11-20, Prosciutto, IP, Uni-Viertel, Pizzabote1, 
+217, 2022-10-24, Margherita, TH, Taldorf, Pizzabote1, doppelt Käse
+218, 2022-11-18, Indiana, OS, Uni-Viertel, Pizzabote2, 
+219, 2022-10-27, Bombay, UB, Flussviertel, Pizzabote1, 
+220, 2022-11-07, Cheese, EW, Altstadt, Pizzabote2, 
+221, 2022-11-04, Indiana, LZ, Neustadt, Pizzabote1, scharf
+222, 2022-10-08, Gyros, YX, Altstadt, Pizzabote1, 
+223, 2022-11-13, Prosciutto, YX, Innenstadt, Pizzabote1, ohne Käse
+224, 2022-10-10, Currywurst, GO, Bergdorf, Pizzabote1, scharf
+225, 2022-11-24, Mista, KR, Uni-Viertel, Luigi, 
+226, 2022-11-13, Nevada, SC, Altstadt, Pizzabote1, 
+227, 2022-10-24, Bombay, RM, Altstadt, Pizzabote2, 
+228, 2022-10-01, Gyros, SC, Altstadt, Pizzabote1, 
+229, 2022-10-29, Florida, VJ, Unterstadt, Pizzabote1, 
+230, 2022-11-29, Funghi, WV, Bahnhofsviertel, Pizzabote2, 
+231, 2022-11-24, NewYork, EM, Uni-Viertel, Pizzabote1, 
+232, 2022-10-29, Mozzarella, HA, Wiesendorf, Pizzabote1, doppelt Käse
+233, 2022-11-25, Hawaii, VJ, Uni-Viertel, Pizzabote1, 
+234, 2022-11-07, Gyros, CS, Innenstadt, Pizzabote1, vegan
+235, 2022-10-16, Spargel, VW, Uni-Viertel, Pizzabote2, 
+236, 2022-10-05, Currywurst, IH, Wiesendorf, Pizzabote1, doppelt Käse
+237, 2022-11-09, Mozzarella, IT, Bahnhofsviertel, Pizzabote1, doppelt Käse
+238, 2022-10-06, Chicago, XD, Innenstadt, Pizzabote2, 
+239, 2022-10-23, Cheese, IT, Neustadt, Pizzabote1, 
+240, 2022-12-01, NewYork, YJ, Bahnhofsviertel, Pizzabote2, doppelt Käse
+241, 2022-10-06, NewYork, LP, Uni-Viertel, Pizzabote1, doppelt Käse
+242, 2022-10-25, Indiana, EW, Neustadt, Pizzabote1, scharf
+243, 2022-10-21, NewYork, SC, Taldorf, Luigi, 
+244, 2022-11-17, Margherita, PO, Innenstadt, Pizzabote2, 
+245, 2022-11-15, Tonno, JG, Uni-Viertel, Pizzabote1, 
+246, 2022-10-09, Nevada, CS, Taldorf, Luigi, 
+247, 2022-11-23, Nevada, PN, Neustadt, Pizzabote1, 
+248, 2022-11-10, NewYork, AI, Innenstadt, Pizzabote1, 
+249, 2022-10-14, Margherita, CS, Uni-Viertel, Pizzabote1, 
+250, 2022-11-06, Bombay, DA, Bergdorf, Pizzabote2, 
+251, 2022-10-25, Chicago, YQ, Uni-Viertel, Luigi, 
+252, 2022-10-23, Currywurst, HL, Bahnhofsviertel, Pizzabote2, 
+253, 2022-11-14, Tonno, SC, Altstadt, Pizzabote2, 
+254, 2022-10-06, Indiana, EW, Innenstadt, Luigi, 
+255, 2022-10-08, Prosciutto, SC, Bahnhofsviertel, Pizzabote1, 
+256, 2022-11-19, Bombay, TZ, Uni-Viertel, Pizzabote2, ohne Käse
+257, 2022-10-14, Mista, YJ, Altstadt, Pizzabote1, 
+258, 2022-11-23, Chicago, TZ, Taldorf, Luigi, 
+259, 2022-11-06, FruttiDiMare, JB, Neustadt, Pizzabote1, doppelt Käse
+260, 2022-10-26, Tonno, HK, Uni-Viertel, Luigi, 
+261, 2022-10-07, HotDog, VW, Neustadt, Luigi, 
+262, 2022-12-01, Spargel, XY, Neustadt, Luigi, 
+263, 2022-11-26, Spargel, TH, Neustadt, Pizzabote1, vegan
+264, 2022-10-20, Margherita, OS, Wiesendorf, Pizzabote1, ohne Käse
+265, 2022-10-04, Margherita, OS, Neustadt, Pizzabote2, doppelt Käse
+266, 2022-11-08, Currywurst, UB, Bahnhofsviertel, Luigi, vegan
+267, 2022-11-14, FruttiDiMare, KH, Taldorf, Luigi, 
+268, 2022-11-02, FruttiDiMare, PO, Neustadt, Pizzabote1, doppelt Käse
+269, 2022-10-07, Currywurst, JB, Wiesedorf, Pizzabote1, scharf
+270, 2022-10-23, Mista, HL, Wiesedorf, Pizzabote1, 
+271, 2022-11-24, NewYork, LH, Univiertel, Pizzabote2, doppelt Käse
+272, 2022-10-22, HotDog, YQ, Bahnhofsviertel, Pizzabote2, doppelt Käse
+273, 2022-11-27, Mozzarella, KH, Uni-Viertel, Pizzabote2, 
+274, 2022-10-16, Gyros, FO, Wiesendorf, Luigi, 
+275, 2022-10-24, Hawaii, VJ, Wiesendorf, Luigi, 
+276, 2022-10-09, Tonno, FE, Taldorf, Pizzabote1, 
+277, 2022-12-01, Mozzarella, SC, Innenstadt, Luigi, scharf
+278, 2022-11-29, Florida, UR, Uni-Viertel, Luigi, 
+279, 2022-10-28, Mozzarella, RG, Innenstadt, Pizzabote1, 
+280, 2022-11-03, Spargel, EM, Wiesendorf, Pizzabote1, doppelt Käse
+281, 2022-11-10, Cheese, FO, Bergdorf, Pizzabote2, 
+282, 2022-10-05, Nevada, BR, Uni-Viertel, Pizzabote1, 
+283, 2022-10-31, HotDog, WV, Uni-Viertel, Pizzabote1, doppelt Käse
+284, 2022-11-26, Margherita, LP, Neustadt, Pizzabote2, 
+285, 2022-10-30, FruttiDiMare, TH, Uni-Viertel, Pizzabote1, vegan
+286, 2022-11-30, Nevada, YX, Innenstadt, Pizzabote1, 
+287, 2022-11-17, Nevada, YJ, Altstadt, Pizzabote1, 
+288, 2022-10-28, Kentucky, PN, Taldorf, Pizzabote1, 
+289, 2022-11-04, Tonno, FO, Uni-Viertel, Pizzabote1, 
+290, 2022-11-23, Margherita, VL, Innenstadt, Luigi, 
+291, 2022-10-27, Cheese, HK, Bergdorf, Pizzabote2, 
+292, 2022-11-16, Tonno, EM, Bahnhofsviertel, Pizzabote1, 
+293, 2022-11-30, Spargel, RG, Bahnhofsviertel, Pizzabote1, doppelt Käse
+294, 2022-10-14, Spargel, BR, Flussviertel, Pizzabote2, 
+295, 2022-11-16, Indiana, IT, Flussviertel, Pizzabote1, doppelt Käse
+296, 2022-11-09, Margherita, BR, Uni-Viertel, Pizzabote1, 
+297, 2022-10-29, Prosciutto, GO, Wiesendorf, Luigi, 
+298, 2022-10-05, NewYork, IT, Neustadt, Pizzabote2, vegan
+299, 2022-11-26, Florida, HK, Uni-Viertel, Pizzabote2, 
+300, 2022-11-04, Indiana, HK, Unterstadt, Luigi, doppelt Käse
+301, 2022-11-04, Currywurst, YV, Taldorf, Pizzabote1, 
+302, 2022-10-24, Cheese, JQ, Uni-Viertel, Pizzabote1, 
+303, 2022-10-16, Bombay, LH, Uni-Viertel, Pizzabote1, scharf
+304, 2022-10-19, Chicago, XY, Uni-Viertel, Luigi, doppelt Käse
+305, 2022-10-21, Spargel, HL, Neustadt, Pizzabote1, 
+306, 2022-11-21, Nevada, LH, Flussviertel, Pizzabote1, 
+307, 2022-11-08, Gyros, EM, Unterstadt, Pizzabote2, 
+308, 2022-11-19, Prosciutto, PO, Wiesedorf, Pizzabote1, doppelt Käse
+309, 2022-11-16, Prosciutto, JQ, Bahnhofsviertel, Pizzabote2, 
+310, 2022-10-25, Hawaii, HA, Taldorf, Pizzabote1, 
+311, 2022-10-17, Spargel, PN, Taldorf, Pizzabote1, 
+312, 2022-11-17, FruttiDiMare, WV, Wiesendorf, Luigi, vegan
+313, 2022-11-03, Nevada, IH, Altstadt, Pizzabote1, 
+314, 2022-11-03, Margherita, TH, Wiesendorf, Pizzabote1, ohne Käse
+315, 2022-11-28, Margherita, JB, Uni-Viertel, Pizzabote2, ohne Käse
+316, 2022-11-14, FruttiDiMare, KH, Innenstadt, Pizzabote1, 
+317, 2022-11-04, Chicago, IT, Uni-Viertel, Pizzabote2, scharf
+318, 2022-10-13, Mista, JQ, Altstadt, Pizzabote2, 
+319, 2022-10-19, Hawaii, PO, Uni-Viertel, Pizzabote1, 
+320, 2022-10-14, Spargel, CS, Neustadt, Pizzabote2, 
+321, 2022-11-12, Nevada, HK, Uni-Viertel, Pizzabote2, ohne Käse
+322, 2022-11-20, Chicago, VL, Uni-Viertel, Pizzabote1, 
+323, 2022-11-20, Cheese, DA, Uni-Viertel, Pizzabote2, 
+324, 2022-10-03, Spargel, LZ, Wiesendorf, Pizzabote1, 
+325, 2022-10-09, Spargel, HA, Uni-Viertel, Pizzabote1, 
+326, 2022-10-19, Currywurst, UR, Bahnhofsviertel, Pizzabote2, 
+327, 2022-10-03, Currywurst, YX, Taldorf, Pizzabote2, 
+328, 2022-11-28, Kentucky, HL, Uni-Viertel, Luigi, 
+329, 2022-11-28, Currywurst, HL, Altstadt, Pizzabote1, 
+330, 2022-10-11, Mista, JP, Uni-Viertel, Luigi, 
+331, 2022-11-09, HotDog, XY, Wiesendorf, Pizzabote1, 
+332, 2022-11-02, HotDog, JP, Univiertel, Luigi, 
+333, 2022-11-04, Gyros, JB, Taldorf, Pizzabote1, scharf
+334, 2022-10-23, Hawaii, EW, Wiesedorf, Luigi, vegan
+335, 2022-10-01, Indiana, KR, Univiertel, Pizzabote1, doppelt Käse
+336, 2022-11-01, Funghi, JP, Neustadt, Pizzabote1, 
+337, 2022-10-05, Cheese, EM, Taldorf, Pizzabote2, 
+338, 2022-11-01, Gyros, YV, Altstadt, Luigi, ohne Käse
+339, 2022-11-26, Mozzarella, BR, Neustadt, Pizzabote1, vegan
+340, 2022-11-29, Margherita, NY, Neustadt, Pizzabote2, doppelt Käse
+341, 2022-11-27, Mista, GO, Neustadt, Pizzabote1, ohne Käse
+342, 2022-10-21, Mozzarella, XW, Uni-Viertel, Pizzabote2, doppelt Käse
+343, 2022-10-03, Mozzarella, DS, Altstadt, Luigi, ohne Käse
+344, 2022-10-05, Florida, LH, Uni-Viertel, Pizzabote1, 
+345, 2022-10-22, Mozzarella, YX, Flussviertel, Luigi, vegan
+346, 2022-10-01, Mista, JB, Wiesendorf, Pizzabote1, 
+347, 2022-11-21, Florida, UR, Uni-Viertel, Pizzabote1, 
+348, 2022-10-19, Chicago, WV, Univiertel, Pizzabote1, 
+349, 2022-10-05, Funghi, DA, Innenstadt, Luigi, doppelt Käse
+350, 2022-10-29, Prosciutto, JP, Uni-Viertel, Pizzabote2, 
+351, 2022-11-23, Nevada, SC, Neustadt, Pizzabote2, 
+352, 2022-10-03, Chicago, RM, Uni-Viertel, Pizzabote1, 
+353, 2022-11-30, Hawaii, AI, Altstadt, Pizzabote1, vegan
+354, 2022-11-20, Gyros, CF, Uni-Viertel, Luigi, 
+355, 2022-11-03, Kentucky, SC, Bahnhofsviertel, Pizzabote1, ohne Käse
+356, 2022-11-16, HotDog, NY, Taldorf, Luigi, 
+357, 2022-11-21, Prosciutto, JQ, Unterstadt, Luigi, vegan
+358, 2022-10-06, Mozzarella, IT, Neustadt, Pizzabote2, 
+359, 2022-11-10, Hawaii, UR, Altstadt, Pizzabote2, 
+360, 2022-10-27, Kentucky, YV, Uni-Viertel, Pizzabote1, doppelt Käse
+361, 2022-11-30, Nevada, EW, Uni-Viertel, Pizzabote1, 
+362, 2022-10-26, Chicago, PN, Innenstadt, Pizzabote1, 
+363, 2022-10-07, HotDog, RG, Wiesedorf, Pizzabote1, 
+364, 2022-10-23, Hawaii, IT, Wiesendorf, Pizzabote1, vegan
+365, 2022-10-26, Chicago, EM, Uni-Viertel, Luigi, 
+366, 2022-11-02, Kentucky, IP, Uni-Viertel, Pizzabote1, vegan
+367, 2022-10-22, Cheese, IH, Neustadt, Pizzabote1, doppelt Käse
+368, 2022-10-13, Cheese, JP, Uni-Viertel, Pizzabote1, doppelt Käse
+369, 2022-11-30, Bombay, HA, Unterstadt, Pizzabote1, 
+370, 2022-10-27, Prosciutto, CS, Uni-Viertel, Luigi, ohne Käse
+371, 2022-11-27, HotDog, SC, Bahnhofsviertel, Pizzabote1, 
+372, 2022-11-10, Margherita, CS, Uni-Viertel, Pizzabote1, doppelt Käse
+373, 2022-11-11, Nevada, PN, Uni-Viertel, Pizzabote1, doppelt Käse
+374, 2022-11-10, Funghi, BR, Bergdorf, Pizzabote1, 
+375, 2022-10-05, Currywurst, XY, Innenstadt, Pizzabote1, doppelt Käse
+376, 2022-10-31, Bombay, BR, Unterstadt, Pizzabote2, 
+377, 2022-10-03, Indiana, WV, Neustadt, Pizzabote2, scharf
+378, 2022-11-15, Tonno, LP, Neustadt, Pizzabote1, vegan
+379, 2022-10-09, Indiana, UB, Uni-Viertel, Luigi, 
+380, 2022-11-26, Kentucky, RM, Uni-Viertel, Pizzabote1, ohne Käse
+381, 2022-11-10, Kentucky, LZ, Uni-Viertel, Pizzabote1, vegan
+382, 2022-11-09, Currywurst, EW, Unterstadt, Pizzabote1, doppelt Käse
+383, 2022-10-12, Margherita, GO, Innenstadt, Luigi, scharf
+384, 2022-10-31, Currywurst, AI, Neustadt, Luigi, scharf
+385, 2022-10-07, Tonno, EM, Uni-Viertel, Pizzabote2, 
+386, 2022-10-13, Kentucky, IT, Neustadt, Pizzabote1, 
+387, 2022-11-19, Cheese, CS, Neustadt, Pizzabote2, 
+388, 2022-11-12, Cheese, QJ, Neustadt, Luigi, 
+389, 2022-10-12, Margherita, NY, Flussviertel, Pizzabote2, doppelt Käse
+390, 2022-11-06, Margherita, VJ, Uni-Viertel, Pizzabote1, 
+391, 2022-11-04, Bombay, XD, Neustadt, Pizzabote1, 
+392, 2022-11-15, Funghi, EM, Uni-Viertel, Luigi, 
+393, 2022-10-29, Bombay, LZ, Wiesendorf, Pizzabote2, 
+394, 2022-10-19, Kentucky, XY, Neustadt, Pizzabote1, 
+395, 2022-10-31, NewYork, TZ, Flussviertel, Pizzabote2, doppelt Käse
+396, 2022-10-07, Nevada, EW, Neustadt, Luigi, 
+397, 2022-10-11, Indiana, VW, Uni-Viertel, Pizzabote1, 
+398, 2022-10-21, Nevada, LZ, Innenstadt, Pizzabote1, ohne Käse
+399, 2022-10-28, HotDog, BR, Innenstadt, Pizzabote1, scharf
+400, 2022-10-05, Bombay, RM, Neustadt, Pizzabote1, doppelt Käse
